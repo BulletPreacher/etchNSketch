@@ -1,0 +1,5 @@
+#gridContainer{
+   display: flex;
+   width: max-content;
+   border:10px solid rgb(231, 8, 8);
+}
